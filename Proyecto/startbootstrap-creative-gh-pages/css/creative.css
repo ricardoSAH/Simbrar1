@@ -597,6 +597,7 @@ pre code {
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
+  
 }
 
 .no-gutters {
@@ -6075,6 +6076,48 @@ a.close.disabled {
   margin-left: 15%;
   list-style: none;
 }
+
+.prueba {
+
+  border:2px solid #636a71;
+  border-radius: 14px;
+  padding: 90px 0;
+  box-shadow: 5px 5px 0 #636a71;
+ 
+}
+
+
+@media (min-width: 410px) and (max-width: 599px) {
+
+.prueba {
+
+  border:2px solid #636a71;
+  border-radius: 14px;
+  padding: 90px 0;
+  box-shadow: 5px 5px 0 #636a71;
+  width: 80%;
+  text-align: center;
+  margin-left: 40px;
+ 
+}
+}
+
+@media (min-width: 600px) and (max-width: 990px) {
+
+.prueba {
+
+  border:2px solid #636a71;
+  border-radius: 14px;
+  padding: 90px 0;
+  box-shadow: 5px 5px 0 #636a71;
+  width: 40%;
+  text-align: center;
+  margin-left: 180px;
+ 
+}
+
+}
+
 
 .carousel-indicators li {
   box-sizing: content-box;
