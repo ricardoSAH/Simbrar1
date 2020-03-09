@@ -6411,13 +6411,13 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #f4623a !important;
+  background-color: #07ffdee5 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #ee3e0d !important;
+  background-color: #07ffdee5 !important;
 }
 
 .bg-secondary {
@@ -6539,7 +6539,7 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-  border-color: #f4623a !important;
+  border-color: #3af4db !important;
 }
 
 .border-secondary {
@@ -9948,7 +9948,7 @@ header.masthead h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(23, 162, 184, 0.7);
+  background: rgba(1, 255, 234, 0.9);
   transition: opacity 0.25s ease;
   text-align: center;
 }
