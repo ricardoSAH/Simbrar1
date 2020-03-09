@@ -6411,13 +6411,13 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #07ffdee5 !important;
+  background-color: #17a2b8 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #07ffdee5 !important;
+  background-color: #17a2b8 !important;
 }
 
 .bg-secondary {
@@ -6539,7 +6539,7 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-  border-color: #3af4db !important;
+  border-color: #17a2b8 !important;
 }
 
 .border-secondary {
@@ -6563,7 +6563,7 @@ button.bg-dark:focus {
 }
 
 .border-light {
-  border-color: #f8f9fa !important;
+  border-color: #17a2b8 !important;
 }
 
 .border-dark {
